@@ -15,6 +15,8 @@ public class TestePI1 {
         System.out.println("Escreva o primeiro número:");
         NUM1 = leitor.nextDouble();
         System.out.println("Escreva o segundo número");
+        NUM2 = leitor.nextDouble();
+        
     }
     
 }
