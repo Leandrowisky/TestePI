@@ -20,6 +20,8 @@ public class TestePI1 {
         
         resultado = NUM1*NUM2;
         
+        System.out.println("Produto dos números digitados:");
+        
     }
     
 }
