@@ -9,6 +9,7 @@ public class TestePI1 {
 
     public static void main(String[] args) {
         double NUM1, NUM2;
+        double resultado;
         
         Scanner leitor = new Scanner(System.in);
         
@@ -16,6 +17,8 @@ public class TestePI1 {
         NUM1 = leitor.nextDouble();
         System.out.println("Escreva o segundo número");
         NUM2 = leitor.nextDouble();
+        
+        resultado = NUM1*NUM2;
         
     }
     
